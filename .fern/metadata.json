@@ -1,0 +1,9 @@
+{
+  "cliVersion": "3.32.0",
+  "generatorName": "fernapi/fern-php-sdk",
+  "generatorVersion": "1.25.2",
+  "generatorConfig": {
+    "clientName": "ForumClient"
+  },
+  "sdkVersion": "0.0.33"
+}
