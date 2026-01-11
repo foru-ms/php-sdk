@@ -1,6 +1,6 @@
 {
-  "name": "foru-ms/foru-ms",
-  "version": "0.0.33",
+  "name": "foru-ms/sdk",
+  "version": "0.0.34",
   "description": "ForuMs PHP Library",
   "keywords": [
     "foru-ms",

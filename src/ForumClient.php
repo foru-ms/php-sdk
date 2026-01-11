@@ -112,8 +112,8 @@ class ForumClient
         $defaultHeaders = [
             'X-Fern-Language' => 'PHP',
             'X-Fern-SDK-Name' => 'ForuMs',
-            'X-Fern-SDK-Version' => '0.0.33',
-            'User-Agent' => 'foru-ms/foru-ms/0.0.33',
+            'X-Fern-SDK-Version' => '0.0.34',
+            'User-Agent' => 'foru-ms/sdk/0.0.34',
         ];
         if ($apiKey != null) {
             $defaultHeaders['x-api-key'] = $apiKey;

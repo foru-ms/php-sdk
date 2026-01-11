@@ -3,7 +3,7 @@
 ![](https://foru.ms/images/cover.png)
 
 [![fern shield](https://img.shields.io/badge/%F0%9F%8C%BF-Built%20with%20Fern-brightgreen)](https://buildwithfern.com?utm_source=github&utm_medium=github&utm_campaign=readme&utm_source=https%3A%2F%2Fgithub.com%2Fforu-ms%2Fphp-sdk)
-[![php shield](https://img.shields.io/badge/php-packagist-pink)](https://packagist.org/packages/foru-ms/foru-ms)
+[![php shield](https://img.shields.io/badge/php-packagist-pink)](https://packagist.org/packages/foru-ms/sdk)
 
 The ForuMs PHP library provides convenient access to the ForuMs APIs from PHP.
 
@@ -31,7 +31,7 @@ This SDK requires PHP ^8.1.
 ## Installation
 
 ```sh
-composer require foru-ms/foru-ms
+composer require foru-ms/sdk
 ```
 
 ## Usage

@@ -3,7 +3,8 @@
   "generatorName": "fernapi/fern-php-sdk",
   "generatorVersion": "1.25.2",
   "generatorConfig": {
-    "clientName": "ForumClient"
+    "clientName": "ForumClient",
+    "packageName": "foru-ms/sdk"
   },
-  "sdkVersion": "0.0.33"
+  "sdkVersion": "0.0.34"
 }
